@@ -11,6 +11,9 @@ The applications is an example of my first sites.
 * Go live or open the index.html file with chrome
 * And you are all done
 
+## live server
+https://charlez-1.github.io/Charlez1-trial-one/
+
 ## Known Bugs
 The application works perfectly well, no bugs.
 
@@ -21,6 +24,6 @@ HTML, CSS .
 email :: levonjoroge@gmail.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/k-koech/portfolio-sdft11/blob/master/LICENSE.md)*
+*LIcenced under the [MT-licence]https://github.com/Charlez-1/Charlez1-trial-one/blob/main/LICENSE.md
 
 Copyright (c) 2024 **ELVIS KURIA**
